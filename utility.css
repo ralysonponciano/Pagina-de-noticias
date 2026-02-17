@@ -26,3 +26,6 @@
     font: var(--text-sm);
 
 }
+.gap32{
+    gap: 32px;
+}
