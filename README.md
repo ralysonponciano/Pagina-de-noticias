@@ -10,9 +10,6 @@ Responsividade Dinâmica: Ajustar o número de colunas conforme a tela sem preci
 
 UI/UX de Portais: Como organizar o peso visual das notícias (a de Robótica sendo o destaque principal, por exemplo).
 
-🛠️ O que tem "debaixo do capô"?
-HTML5 Semântico: Usei as tags certas (<section>, <article>, <nav>) para não ser só um monte de <div>.
-
 CSS Moderno: Nada de frameworks pesados. É CSS puro, explorando variáveis para as cores (especialmente esse tom Dark) e, claro, o Grid Layout.
 
 Componentização: Tentei manter o código limpo criando classes de "cards" que eu pudesse reaproveitar no feed.
